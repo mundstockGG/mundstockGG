@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🐍 Python: Casting spells in the ancient script of algorithms.<br><br>🌐 JavaScript & React: Enchanting the web with interactive sorcery.<br><br>🗃️ SQL & Databases: Brewmaster of potions distilled from the well of data.<br><br>🛠️ **Git & GitHub**: Guardian of versioned realms and open-source alliances.<br><br>💻 VS Code: Elixir-infused wand for syntax sorcery.<br><br>🐳 Docker: Conjurer of portable enchantments.<br><br>📚 Always Learning: Mastering the arts of Machine Learning and DevOps alchemy.</p>
+<p align="left">🐍 Python: Casting spells in the ancient script of algorithms.<br><br>🌐 JavaScript & React: Enchanting the web with interactive sorcery.<br><br>🗃️ SQL & Databases: Brewmaster of potions distilled from the well of data.<br><br>🛠️ Git & GitHub: Guardian of versioned realms and open-source alliances.<br><br>💻 VS Code: Elixir-infused wand for syntax sorcery.<br><br>🐳 Docker: Conjurer of portable enchantments.<br><br>📚 Always Learning: Mastering the arts of Machine Learning and DevOps alchemy.</p>
 
 ###
 

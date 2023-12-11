@@ -24,7 +24,14 @@
 
 ###
 
-<p align="left">🐍 **Python**: Casting spells in the ancient script of algorithms.<br><br>🌐 **JavaScript & React**: Enchanting the web with interactive sorcery.<br><br>🗃️ **SQL & Databases**: Brewmaster of potions distilled from the well of data.<br><br>🛠️ **Git & GitHub**: Guardian of versioned realms and open-source alliances.<br><br>💻 **VS Code**: Elixir-infused wand for syntax sorcery.<br><br>🐳 **Docker**: Conjurer of portable enchantments.<br><br>📚 **Always Learning**: Mastering the arts of Machine Learning and DevOps alchemy.<br><br>Embark with me on this magical coding journey! 🚀✨</p>
+<p align="left">🐍 Python: Casting spells in the ancient script of algorithms.<br><br>🌐 JavaScript & React: Enchanting the web with interactive sorcery.<br><br>🗃️ SQL & Databases: Brewmaster of potions distilled from the well of data.<br><br>🛠️ **Git & GitHub**: Guardian of versioned realms and open-source alliances.<br><br>💻 VS Code: Elixir-infused wand for syntax sorcery.<br><br>🐳 Docker: Conjurer of portable enchantments.<br><br>📚 Always Learning: Mastering the arts of Machine Learning and DevOps alchemy.<br><br>Embark with me on this magical coding journey! 🚀✨</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mundstockGG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mundstockGG&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 

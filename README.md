@@ -1,6 +1,6 @@
 # こんにちは, I'm Mundstock👋
 
-![Profile Banner](link-to-your-banner-image)
+![Profile Banner](https://cdn.discordapp.com/attachments/1143047097613029396/1200263487063068703/Leonardo_Diffusion_XL_a_manga_panel_of_a_far_view_of_a_cat_dre_0.jpg?ex=65c58b7b&is=65b3167b&hm=4e03cfd815c20c18b53e470c342e97cc180dd11071b6e5e886c5d329f807401c&)
 
 ## About Me
 

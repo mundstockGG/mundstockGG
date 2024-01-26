@@ -4,7 +4,10 @@
 
 ## About Me
 
-🌸 Wanderer and code artisan, blending the elegance of clean code with the vivid strokes of creativity. Currently navigating the digital landscapes.
+🌸 Greetings, fellow wanderers of the digital realm! I am Mundstock, a seasoned Software Alchemist with a penchant for crafting elegant code spells and weaving intricate solutions. My journey in the mystical world of programming has spanned 5 enchanted years, during which I've immersed myself in the ever-evolving art of software craftsmanship.
+
+In this magical quest, I've mastered the intricate dance of algorithms, harmonizing them with the vibrant hues of creativity. The sacred script of clean code flows through my veins as I navigate the enchanting landscapes of technology.
+
 
 ## 💼 Current Quest
 
@@ -30,11 +33,11 @@
 
 ## 🚀 Projects
 
-### [Project 1]
+### [Molly Bot]
 
 [Short description of Project 1. Add a screenshot or logo.]
 
-### [Project 2]
+### [SwitchUS]
 
 [Short description of Project 2. Add a screenshot or logo.]
 

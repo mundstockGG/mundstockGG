@@ -6,16 +6,27 @@
 
 🌸 Wanderer and code artisan, blending the elegance of clean code with the vivid strokes of creativity. Currently navigating the digital landscapes.
 
-## 💼 Current Work
+## 💼 Current Quest
 
 - Software Engineer
 - A seasoned Software Alchemist with 5 years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
 
-## 🔧 Technologies & Skills
+## 🔧 Magic Arsenal
 
-- **Languages:** [List of Programming Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools]
+- **Languages of Incantation:**
+  - **JavaScript:** The versatile spellcasting language for both frontend enchantments and backend rituals.
+  - **Python:** A magical scripting language, perfect for concocting data potions and summoning automation spirits.
+  - **Go:** Harnessing the power of concurrency, crafting fast and efficient charms.
+
+- **Frameworks of Enchantment:**
+  - **React.js:** An elixir for building dynamic and bewitching user interfaces.
+  - **Django:** The sorcerer's framework for crafting robust and scalable backend spells.
+  - **FastAPI:** A swift framework, perfect for creating APIs and invoking data spirits.
+
+- **Tools of Wizardry:**
+  - **Docker:** A magical containerization tool, essential for deploying spells across different realms.
+  - **VS Code:** The spellbook of choice for writing incantations, complete with enchanting extensions.
+  - **Git:** The ancient version control artifact, crucial for weaving collaborative code scrolls.
 
 ## 🚀 Projects
 

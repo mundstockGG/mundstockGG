@@ -1,15 +1,15 @@
-# こんにちは, I'm [Your Name] 👋
+# こんにちは, I'm Mundstock👋
 
 ![Profile Banner](link-to-your-banner-image)
 
 ## About Me
 
-🌸 Manga wanderer and code artisan, blending the elegance of clean code with the vivid strokes of creativity. Currently navigating the digital landscapes from [Your Location].
+🌸 Wanderer and code artisan, blending the elegance of clean code with the vivid strokes of creativity. Currently navigating the digital landscapes.
 
 ## 💼 Current Work
 
-- [Current Job/Role]
-- [Brief Description]
+- Software Engineer
+- A seasoned Software Alchemist with 5 years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
 
 ## 🔧 Technologies & Skills
 
@@ -34,7 +34,6 @@
 ## 📫 ご連絡先 (Contact)
 
 - 📧 Email: [Your Email Address]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
 - 🐦 Twitter: [Your Twitter Handle]
 
 ## 🤝 ご縁を結ぶ (Connect)

@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://cdn.discordapp.com/attachments/1143047097613029396/1200263487063068703/Leonardo_Diffusion_XL_a_manga_panel_of_a_far_view_of_a_cat_dre_0.jpg?ex=65c58b7b&is=65b3167b&hm=4e03cfd815c20c18b53e470c342e97cc180dd11071b6e5e886c5d329f807401c&)
 
-## About Me
+## 🗻 About Me
 
 🌸 Greetings, fellow wanderers of the digital realm! I am Mundstock, a seasoned Software Alchemist with a penchant for crafting elegant code spells and weaving intricate solutions. My journey in the mystical world of programming has spanned 5 enchanted years, during which I've immersed myself in the ever-evolving art of software craftsmanship.
 
@@ -53,11 +53,11 @@ In this magical quest, I've mastered the intricate dance of algorithms, harmoniz
 - 📧 Email: [Your Email Address]
 - 🐦 Twitter: [Your Twitter Handle]
 
-## 🤝 ご縁を結ぶ (Connect)
+## 🤝 ご縁を結ぶ
 
 Let's embark on a tech odyssey, exploring the realms of code and beyond! Feel free to send a raven or perhaps a virtual scroll.
 
-## 🙏 サポート (Support)
+## 🙏 サポート
 
 If my code scrolls have aided your journey, consider supporting this humble coder with a sip of virtual matcha [お賽銭](#).
 

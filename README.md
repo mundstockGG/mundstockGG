@@ -9,12 +9,12 @@
 In this magical quest, I've mastered the intricate dance of algorithms, harmonizing them with the vibrant hues of creativity. The sacred script of clean code flows through my veins as I navigate the enchanting landscapes of technology.
 
 
-## 💼 Current Quest
+## 🔮 Current Quest
 
 - Software Engineer
 - A seasoned Software Alchemist with 5 years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
 
-## 🔧 Magic Arsenal
+## ⚗️ Magic Arsenal
 
 - **Languages of Incantation:**
   - **JavaScript:** The versatile spellcasting language for both frontend enchantments and backend rituals.
@@ -31,7 +31,7 @@ In this magical quest, I've mastered the intricate dance of algorithms, harmoniz
   - **VS Code:** The spellbook of choice for writing incantations, complete with enchanting extensions.
   - **Git:** The ancient version control artifact, crucial for weaving collaborative code scrolls.
 
-## 🚀 Past Exploits
+## 🪄 Past Exploits
 
 ### [Molly Bot]
 

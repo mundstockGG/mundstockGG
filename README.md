@@ -7,9 +7,8 @@
 In this magical quest, I've mastered the intricate dance of algorithms, harmonizing them with the vibrant hues of creativity. The sacred script of clean code flows through my veins as I navigate the enchanting landscapes of technology.
 
 
-## 🔮 Current Quest
+## 🔮 Foresight Spell
 
-- Software Engineer
 - A seasoned Software Alchemist with 5 years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
 
 ## ⚗️ Magic Arsenal

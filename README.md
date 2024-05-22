@@ -1,7 +1,5 @@
 # こんにちは, I'm Mundstock👋
 
-![Profile Banner](https://media.discordapp.net/attachments/1204830926434078750/1205002022907289654/mundstock_a_fluffy_cat_dressed_as_a_wizard_with_a_hat_wearing_g_fb05ab34-decd-4124-adc7-f54826e38184.png?ex=65d6c896&is=65c45396&hm=8ea925baa1e74bbba7fb4b31668432aca506b84f606f3a1769c0e0bd1ca570f5&=&format=webp&quality=lossless&width=1200&height=403)
-
 ## 🗻 About Me
 
 🌸 Greetings, fellow wanderers of the digital realm! I am Mundstock, a seasoned Software Alchemist with a penchant for crafting elegant code spells and weaving intricate solutions. My journey in the mystical world of programming has spanned 5 enchanted years, during which I've immersed myself in the ever-evolving art of software craftsmanship.

@@ -9,7 +9,7 @@ In this magical quest, I've mastered the intricate dance of algorithms, harmoniz
 
 ## 🔮 Foresight Spell
 
-- A seasoned Software Alchemist with 5 years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
+- A seasoned Software Alchemist with numerous years of enchanting experience in the digital realms. Mastering the art of code scrolls, I blend the elegance of algorithms with the vivid colors of creativity.
 
 ## ⚗️ Magic Arsenal
 
@@ -28,13 +28,6 @@ In this magical quest, I've mastered the intricate dance of algorithms, harmoniz
   - **VS Code:** The spellbook of choice for writing incantations, complete with enchanting extensions.
   - **Git:** The ancient version control artifact, crucial for weaving collaborative code scrolls.
 
-## 🪄 Past Exploits
-
-### [Molly Bot]
-
-[Short description of Project 1. Add a screenshot or logo.]
-
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mundstockGG&show_icons=true&theme=dark) <br>
@@ -42,8 +35,8 @@ In this magical quest, I've mastered the intricate dance of algorithms, harmoniz
 
 ## 📫 ご連絡先 (Contact)
 
-- 📧 Email: [Your Email Address]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: [mundstock.gaming@gmail.com]
+- 🐦 Twitter: [mundstock.GG]
 
 ## 🤝 ご縁を結ぶ
 
